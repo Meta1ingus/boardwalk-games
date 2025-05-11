@@ -5,8 +5,10 @@
 :root {
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", cursive;
-    --primary-color: #416a8e; /* Dark Blue */
-}
+    --primary-color: #3a2620; /* Dark Brown */
+    --secondary-color: #aa9581; /* Tan */
+    --highlight-color: #416a8e; /* Blue */
+    --secondary-highlight-color: #7a9fc2; /* Light Blue */
 
 /* Global Styles */
 
