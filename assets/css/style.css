@@ -19,8 +19,15 @@ body {
 
 h1, h2, h3 {
     font-family: var(--secondary-font);
-    color: var(--primary-color);
+    color: var(--primary-color);    
+}
+
+h1,h2 {
     text-transform: uppercase;
+}
+
+h2 {
+    margin-bottom: 2rem;
 }
 
 .sub-heading-color {
