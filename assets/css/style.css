@@ -85,7 +85,7 @@ h2 {
 }
 
 #contact .sub-heading-color {
-    color: var(--highlight-color-light );
+    color: var(--secondary-highlight-color);
 }
 
 /* grid visualisation CSS for testing */
