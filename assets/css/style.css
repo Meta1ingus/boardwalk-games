@@ -72,6 +72,22 @@ h2 {
     border: none;
 }
 
+/* Footer / Contact */
+
+#contact {
+    background-color: var(--primary-color);
+    color: white;
+    padding-bottom: 3rem;
+}
+
+#contact h2 {
+    color: white;
+}
+
+#contact .sub-heading-color {
+    color: var(--highlight-color-light );
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
